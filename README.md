@@ -6,6 +6,7 @@ This is a simple CV page built with HTML.
 
 You can view the live version of the project here:
 [Project Page URL](https://ginamoya.github.io/easypizza/)
+https://roadmap.sh/projects/single-page-cv
 
 
 ## How to run the project locally
